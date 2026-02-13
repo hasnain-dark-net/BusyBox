@@ -8,6 +8,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@HasnainDarkNet)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbAITKS89inbH414Xv1L)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&logoColor=white)](https://www.instagram.com/hasnaindarknet)
+<img width="8192" height="4320" alt="Untitled-1" src="https://github.com/user-attachments/assets/94819e62-6011-43f1-993d-b5d186fac919" />
 
 ---
 ## BusyBox Install Command...
