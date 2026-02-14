@@ -84,7 +84,7 @@ def main():
         time.sleep(0.15)  
     
     if not connected:
-        print(f"\n\033[1;31m[-] Sorry Sir, First Open Your Port 4444.  {PORT} par\033[0m")
+        print(f"\n\033[1;31m[-] Sorry Sir, First Open Your Port 4444{PORT}par\033[0m")
     else:
         print(f"\n\033[1;32m[✓] Connection established and shell started!\033[0m")
 
